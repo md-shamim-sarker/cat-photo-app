@@ -1,1 +1,2 @@
-# cat-photo-app
+# Cat Photo App
+## Only HTML Project
